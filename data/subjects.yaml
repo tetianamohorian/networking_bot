@@ -1,0 +1,51 @@
+"FEI - Jazyk 1": ["tutoring", "skuska"]
+"Matematika I": ["tutoring", "work_1", "work_2"]
+"Základy algoritmizácie a programovania": [
+  "problemset_1", "problemset_2", "problemset_3", "problemset_4", "problemset_5",
+  "problemset_6", "problemset_7", "round_1", "round_2", "round_3", "skuska"
+]
+"Základy elektrotechnického inžinierstva": [
+  "pisomka_1", "pisomka_2_bozp", "mechanicka", "elektronicka", "research", "electroinstalacia", "tutoring"
+]
+"Základy inžinierstva materiálov": ["pisomka_1", "pisomka_2", "pisomka_3", "tutoring"]
+
+
+"FEI - Jazyk 2": ["tutoring", "skuska"]
+"Fyzika I.": ["tutoring","pisomka"]
+"Matematika II": ["tutoring","pisomka_1", "pisomka_2"]
+"Princípy počítačového inžinierstva": ["tutoring","zadanie", "pisomka_1", "pisomka_2"]
+"Programovanie": [
+  "zadanie_1", "zadanie_2", "zadanie_3", "zadanie_4", "zadanie_5", "zadanie_6", "zadanie_7",
+  "aktivita_1", "aktivita_2", "aktivita_3", "tutoring", "skuska"
+]
+"Základy komunikačných technológií": ["referat"]
+
+"Architektúry počítačových systémov": ["zadanie_2", "zadanie_3", "bonusova_uloha", "pisomka", "tutoring"]
+"Diskrétna matematika": ["pisomka_1", "pisomka_2", "skuska", "tutoring"]
+"Operačné systémy": ["zadanie_1", "zadanie_2", "zadanie_3"]
+"Údajové štruktúry a algoritmy": [
+  "zadanie_1", "zadanie_2", "zadanie_3", "zadanie_4",
+  "zadanie_5", "zadanie_6", "zadanie_7", "zadanie_8",
+  "aktivita_1", "aktivita_2", "skuska", "tutoring"
+]
+"Úvod do počítačových sietí": ["pisomka_1", "pisomka_2"]
+
+
+"Databázové systémy": ["test", "projekt", "skuska", "tutoring"]
+"Numerická matematika, pravdepodobnosť a matematická štatistika": ["pisomka_1", "pisomka_2", "skuska", "tutoring"]
+"Počítačové siete": ["pisomka_1", "pisomka_2"]
+"Multimediálne signály v komunikačných sieťach": ["test", "projekt"]
+"Základy elektroniky a logických obvodov": ["projekt"]
+
+"Aplikácie počítačových sietí": ["pisomka_1", "pisomka_2"]
+"Objektovo orientované programovanie": ["zadanie_1", "zadanie_2", "zadanie_3", "test"]
+"Programovanie meracích systémov": ["projekt", "pisomka"]
+"Webové technológie": ["zadanie_1", "zadanie_2"]
+"Bezpečnosť v počítačových systémoch": [
+  "zadanie_1", "zadanie_2", "zadanie_3", "zadanie_4", "zadanie_5",
+  "bonusova_uloha_1", "bonusova_uloha_2", "skuska"
+]
+"Spoločenské vedy a technika": ["test"]
+"Základy klaudových technológií": ["zadanie_1", "zadanie_2", "skuska"]
+
+
