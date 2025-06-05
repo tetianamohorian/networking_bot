@@ -7,7 +7,7 @@ from handlers import start, course, subject_router, request_form, executor_handl
 from reminder_scheduler import start_reminder_loop
 import sqlite3
 
-BOT_TOKEN = os.getenv("BOT_TOKEN") or "7952204712:AAEBP8vaZBP6hDoD7HkxlEKPWD6xKIkRU94"
+
 bot = telebot.TeleBot(BOT_TOKEN)
 DB_PATH = "data/requests.db"
 translator = Translator()
